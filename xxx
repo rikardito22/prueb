@@ -1213,3 +1213,93 @@ http://cableplaytv.xyz:25461/Camilo/Camilo21/23977
 http://cableplaytv.xyz:25461/Camilo/Camilo21/190097
 #EXTINF:-1 tvg-id="" tvg-name="ESP | 24/7 Callejeros Viajeros" tvg-logo="http://127.0.0.1/" group-title="España",ESP | 24/7 Callejeros Viajeros
 http://cableplaytv.xyz:25461/Camilo/Camilo21/190098
+#EXTINF:-1 tvg-id="" tvg-name="INF | Baby First" tvg-logo="http://cableplaytv.xyz:25461/images/f8089affee222f1f593459e5e30bfa2c.png" group-title="Infantiles",INF | Baby First
+http://cableplaytv.xyz:25461/Camilo/Camilo21/7499
+#EXTINF:-1 tvg-id="" tvg-name="INF | Baby TV" tvg-logo="http://cableplaytv.xyz:25461/images/95171258279507cbae7495dac7cd46bd.png" group-title="Infantiles",INF | Baby TV
+http://cableplaytv.xyz:25461/Camilo/Camilo21/7500
+#EXTINF:-1 tvg-id="" tvg-name="INF | Boomerang" tvg-logo="http://cableplaytv.xyz:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="Infantiles",INF | Boomerang
+http://cableplaytv.xyz:25461/Camilo/Camilo21/7501
+#EXTINF:-1 tvg-id="" tvg-name="INF | Cartoon Network CO" tvg-logo="http://cableplaytv.xyz:25461/images/7efdfc94655a25dcea3ec85e9bb703fa.png" group-title="Infantiles",INF | Cartoon Network CO
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25653
+#EXTINF:-1 tvg-id="" tvg-name="INF | Cartoon Network MX" tvg-logo="http://cableplaytv.xyz:25461/images/e9aad583b4a9098915cbd0ac47606883.png" group-title="Infantiles",INF | Cartoon Network MX
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25655
+#EXTINF:-1 tvg-id="" tvg-name="INF | Discovery Kids" tvg-logo="http://cableplaytv.xyz:25461/images/a5a6a49e4c29ebc4d0b5bda5b5fa682a.png" group-title="Infantiles",INF | Discovery Kids
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25658
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Channel CO" tvg-logo="http://cableplaytv.xyz:25461/images/98da911a6a7e9b677b03b2453b2befb1.png" group-title="Infantiles",INF | Disney Channel CO
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25664
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Channel MX" tvg-logo="http://cableplaytv.xyz:25461/images/98da911a6a7e9b677b03b2453b2befb1.png" group-title="Infantiles",INF | Disney Channel MX
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25666
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Jr" tvg-logo="http://cableplaytv.xyz:25461/images/8026d1a257cb88587445cf0a40e9709c.png" group-title="Infantiles",INF | Disney Jr
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25669
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney XD MX" tvg-logo="http://cableplaytv.xyz:25461/images/87a97073c2b4ad3ac73c958d0a029511.png" group-title="Infantiles",INF | Disney XD MX
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25661
+#EXTINF:-1 tvg-id="" tvg-name="INF | NatGeo Kids CO" tvg-logo="http://cableplaytv.xyz:25461/images/951aa9456dfe8a71f1ad1a3b5ced436f.png" group-title="Infantiles",INF | NatGeo Kids CO
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25671
+#EXTINF:-1 tvg-id="" tvg-name="INF | NatGeo Kids MX" tvg-logo="http://cableplaytv.xyz:25461/images/951aa9456dfe8a71f1ad1a3b5ced436f.png" group-title="Infantiles",INF | NatGeo Kids MX
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25673
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nick 2 CO" tvg-logo="http://cableplaytv.xyz:25461/images/2060339f3688f7bd48dd3c9e4ae1e27f.png" group-title="Infantiles",INF | Nick 2 CO
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25680
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nick Jr" tvg-logo="https://image.ibb.co/fOZHd0/nickjr.png" group-title="Infantiles",INF | Nick Jr
+http://cableplaytv.xyz:25461/Camilo/Camilo21/7525
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nick Jr AR" tvg-logo="https://image.ibb.co/fOZHd0/nickjr.png" group-title="Infantiles",INF | Nick Jr AR
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25684
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nickelodeon CO" tvg-logo="http://cableplaytv.xyz:25461/images/78353b5a3b8541c2f0bdf61c7a3fcd71.png" group-title="Infantiles",INF | Nickelodeon CO
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25675
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nickelodeon MX" tvg-logo="http://cableplaytv.xyz:25461/images/78353b5a3b8541c2f0bdf61c7a3fcd71.png" group-title="Infantiles",INF | Nickelodeon MX
+http://cableplaytv.xyz:25461/Camilo/Camilo21/25677
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nicktoons" tvg-logo="http://cableplaytv.xyz:25461/images/676e40a86f51bf423d6d7b4942167633.png" group-title="Infantiles",INF | Nicktoons
+http://cableplaytv.xyz:25461/Camilo/Camilo21/7530
+#EXTINF:-1 tvg-id="" tvg-name="INF | Semillitas" tvg-logo="http://tvgolatino.com:8080/images/bf645f900af4f3415dd30a5034ba49a6.jpg" group-title="Infantiles",INF | Semillitas
+http://cableplaytv.xyz:25461/Camilo/Camilo21/188692
+#EXTINF:-1 tvg-id="" tvg-name="INF | Tooncast" tvg-logo="http://cableplaytv.xyz:25461/images/2ed5b63ca7b41ebb07fd82f963d0963d.png" group-title="Infantiles",INF | Tooncast
+http://cableplaytv.xyz:25461/Camilo/Camilo21/7536
+#EXTINF:-1 tvg-id="" tvg-name="INF | ZooMoo" tvg-logo="http://tvgolatino.com:8080/images/d7090f4ea9ce18813a2e0bd7d77f5f2c.png" group-title="Infantiles",INF | ZooMoo
+http://cableplaytv.xyz:25461/Camilo/Camilo21/188691
+#EXTINF:-1 tvg-id="" tvg-name="REL | 24/7 El Super Libro" tvg-logo="http://cableplaytv.xyz:25461/images/1b09bae3011defb7fa3bfb19f24e2c6a.jpg" group-title="Religion",REL | 24/7 El Super Libro
+http://cableplaytv.xyz:25461/Camilo/Camilo21/22688
+#EXTINF:-1 tvg-id="" tvg-name="REL | 24/7 Grandes Héroes y Leyendas de la Biblia" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | 24/7 Grandes Héroes y Leyendas de la Biblia
+http://cableplaytv.xyz:25461/Camilo/Camilo21/22689
+#EXTINF:-1 tvg-id="" tvg-name="REL | 24/7 Historias de la Biblia" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | 24/7 Historias de la Biblia
+http://cableplaytv.xyz:25461/Camilo/Camilo21/22690
+#EXTINF:-1 tvg-id="" tvg-name="REL | 24/7 La Biblia Serie" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | 24/7 La Biblia Serie
+http://cableplaytv.xyz:25461/Camilo/Camilo21/22687
+#EXTINF:-1 tvg-id="" tvg-name="REL | 3ABN en Español" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | 3ABN en Español
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24970
+#EXTINF:-1 tvg-id="" tvg-name="REL | Alfa Television" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Alfa Television
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24975
+#EXTINF:-1 tvg-id="" tvg-name="REL | Alfa y Omega" tvg-logo="" group-title="Religion",REL | Alfa y Omega
+http://cableplaytv.xyz:25461/Camilo/Camilo21/29848
+#EXTINF:-1 tvg-id="" tvg-name="REL | Aliento Vision" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Aliento Vision
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24976
+#EXTINF:-1 tvg-id="" tvg-name="REL | Alma Vision" tvg-logo="http://cableplaytv.xyz:25461/images/db93a8c093f7e32fd69608afdc16353c.png" group-title="Religion",REL | Alma Vision
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24974
+#EXTINF:-1 tvg-id="" tvg-name="REL | CDM" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | CDM
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24982
+#EXTINF:-1 tvg-id="" tvg-name="REL | Cielo TV" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Cielo TV
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24977
+#EXTINF:-1 tvg-id="" tvg-name="REL | CTNi" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | CTNi
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24973
+#EXTINF:-1 tvg-id="" tvg-name="REL | Elim TV" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Elim TV
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24986
+#EXTINF:-1 tvg-id="" tvg-name="REL | Mision Vida TV" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Mision Vida TV
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24981
+#EXTINF:-1 tvg-id="" tvg-name="REL | Red Advenir" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Red Advenir
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24980
+#EXTINF:-1 tvg-id="" tvg-name="REL | Solidaria TV" tvg-logo="http://127.0.0.1/" group-title="Religion",REL | Solidaria TV
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24979
+#EXTINF:-1 tvg-id="" tvg-name="Salt Lake City" tvg-logo="http://tvgo.ddns.net:8080/images/9dd8be381046bb75f33d84a38a618714.png" group-title="USA The CW - PBS",Salt Lake City
+http://cableplaytv.xyz:25461/Camilo/Camilo21/183136
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Channel CO HD" tvg-logo="http://l3d.us:8080/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="Pack Star Premium",STAR | Star Channel CO HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/56114
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Channel MX HD" tvg-logo="http://l3d.us:8080/images/326af23f71de8af1291efd0a4c2b2020.png" group-title="Pack Star Premium",STAR | Star Channel MX HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/56113
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Classics HD" tvg-logo="http://cableplaytv.xyz:25461/images/a789ae31a9b45a9835b26fee4ee0d98b.png" group-title="Pack Star Premium",STAR | Star Classics HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/56101
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Comedy HD" tvg-logo="http://l3d.us:8080/images/670732b11fd831c5dc0316c50b0a851e.png" group-title="Pack Star Premium",STAR | Star Comedy HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/56120
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Fun HD" tvg-logo="http://l3d.us:8080/images/377fb118b36610261303937ce359cf19.png" group-title="Pack Star Premium",STAR | Star Fun HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/56103
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Life MX HD" tvg-logo="http://cableplaytv.xyz:25461/images/c868aa044bb64ae75c3860c0423ca841.png" group-title="Pack Star Premium",STAR | Star Life MX HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/24835
+#EXTINF:-1 tvg-id="" tvg-name="STAR | Star Series HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png" group-title="Pack Star Premium",STAR | Star Series HD
+http://cableplaytv.xyz:25461/Camilo/Camilo21/102
